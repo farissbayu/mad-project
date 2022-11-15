@@ -12,7 +12,7 @@ class Detail : AppCompatActivity() {
         setContentView(R.layout.activity_detail)
 
         // nerima data dari activity dengan key yang di oper adalah "contoh"
-        val detail = intent.getParcelableExtra<DataClassContoh>("contoh",)
+        val detail = intent.getParcelableExtra<DataClassContoh>("contoh")
 
         // deklarasi variabel untuk menampilkan detail
         val imageDetail = findViewById<ImageView>(R.id.iv_detail)

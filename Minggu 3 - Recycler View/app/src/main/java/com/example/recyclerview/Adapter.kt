@@ -13,7 +13,6 @@ class Adapter(
     private val data: MutableList<DataClassContoh>, // dataContoh dari MainActivity
     private val listener: (DataClassContoh) -> Unit // untuk ke detail
 ):RecyclerView.Adapter<Adapter.ViewHolder>() {
-
     // bikin inner class view holder, isinya variabel dari item adapter
     inner class ViewHolder(val v: View): RecyclerView.ViewHolder(v){
         val imageProfile = v.findViewById<ImageView>(R.id.iv_rv)
