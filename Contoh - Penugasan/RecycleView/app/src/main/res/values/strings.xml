@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="ini_nama">ini nama</string>
+    <string name="ini_angkatan">ini angkatan</string>
+    <string name="fakultas_dan_jurusan">Fakultas dan Jurusan</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+    <string name="sistem_informasi">Sistem Informasi</string>
+    <string name="ilmu_komputer">Ilmu Komputer</string>
+    <string name="fakultas_kedokteran">Fakultas Kedokteran</string>
+    <string name="gizi">Gizi</string>
+    <string name="kedokteran">Kedokteran</string>
+
+    <string name="UI">Sejarah Universitas Indonesia dimulai dari tahun 1849, saat Pemerintah Kolonial Belanda membangun sebuah sekolah tinggi ilmu kesehatan. Nama UI sendiri baru resmi digunakan sejak tahun 1950, itupun masih menggunakan bahasa Belanda, yakni Universiteit Indonesia.\nSaat ini, UI memiliki 14 fakultas, dengan lebih dari 291 program studi.Menjadi universitas terbaik di Indonesia, menjadikan UI sebagai tujuan favorit untuk melanjutkan pendidikan tinggi. Tingkat persaingan untuk masuk ke UI juga terbilang sangat ketat lho. Setiap tahunnya, rata-rata persentase pendaftar dan diterima untuk program S1 Reguler berada pada kisaran 3%.</string>
+    <string name="IPB">Institut Pertanian Bogor merupakah Perguruan Tinggi Negeri yang berlokasi di Bogor, Jawa Barat. IPB diresmikan pada tahun 1963, yang mana sebelum itu IPB merupakan sebuah fakultas pertanian di Universitas Indonesia.</string>
+    <string name="ITB">Institut Teknologi Bandung adalah sebuah perguruan tinggi negeri yang berkedudukan di Kota Bandung. Nama ITB diresmikan pada tanggal 2 Maret 1959. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan Hukum yang memiliki otonomi pengelolaan dalam akademik dan nonakademik.</string>
+    <string name="UGM">Universitas Gadjah Mada adalah perguruan tinggi negeri di Daerah Istimewa Yogyakarta, Indonesia. Universitas Gadjah Mada merupakan perguruan tinggi pertama yang didirikan oleh Pemerintah Indonesia setelah Indonesia merdeka.</string>
+    <string name="Unand">Universitas Andalas adalah perguruan tinggi negeri Indonesia yang terletak di Kota Padang, Sumatra Barat, Indonesia. Universitas ini merupakan salah satu universitas tertua di luar Pulau Jawa yang dibuka secara resmi pada tanggal 23 Desember 1955 oleh Wakil Presiden Mohammad Hatta.</string>
+    <string name="UPI">Universitas Pendidikan Indonesia adalah sebuah perguruan tinggi negeri yang kampus utamanya berkedudukan di Kota Bandung, Jawa Barat, Indonesia. Sejak tahun 2012, UPI berstatus sebagai perguruan tinggi yang diselenggarakan pemerintah, berubah dari status sebelumnya sebagai perguruan tinggi Badan Hukum Milik Negara.</string>
+    <string name="Undip">Universitas Diponegoro disingkat sebagai Undip adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Semarang, Jawa Tengah, Indonesia. Saat ini Undip telah memiliki 11 Fakultas dan 2 Sekolah. Kampus utama Undip terletak di daerah Tembalang, dan kampus utama lainnya terletak di daerah Pleburan.</string>
+    <string name="Unpad">Universitas Padjadjaran adalah sebuah perguruan tinggi negeri di Jawa Barat, Indonesia. Kampus utama Unpad, terutama untuk Program Sarjana, berada di Jatinangor, Kabupaten Sumedang, Jawa Barat.</string>
+    <string name="UNP">Universitas Negeri Padang, disingkat UNP adalah perguruan tinggi negeri di Padang, Sumatra Barat, Indonesia, yang berdiri pada 23 Oktober 1954. Rektor Universitas Negeri Padang sejak 20 Juli 2016 adalah Prof. Drs. H. Ganefri, M.Pd., Ph.D. Kampus utamanya terletak di Jalan Prof. Dr. Hamka, Air Tawar, Kota Padang.</string>
+    <string name="Unhas">Universitas Hasanuddin, yang kemudian disingkat Unhas, merupakan sebuah perguruan tinggi negeri di kota Makassar, Provinsi Sulawesi Selatan, Indonesia, yang berdiri pada 10 September 1956.</string>
+    <string name="Unbraw">Universitas Brawijaya adalah perguruan tinggi di Indonesia yang berdiri pada tahun 1963 di Kota Malang, Jawa Timur melalui Ketetapan Menteri Pendidikan dan Ilmu Pengetahuan no.1 tanggal 5 Januari 1963. Tanggal tersebut kemudian ditetapkan sebagai Dies Natalis UB.</string>
+    <string name="uni_name">nama</string>
+    <string name="detail">detail</string>
+    <string name="nama_universitas">Nama Universitas</string>
+    <string name="akreditasi">Akreditasi</string>
+    <string name="alamat">Alamat</string>
+    <string name="telephon">Telephon</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="university">University</string>
+    <string name="profile">Profile</string>
+    <string name="ikhlash">Muhammad Ikhlash</string>
+    <string name="email">muhammadikhlash@gmail.com</string>
+
+
+</resources>
