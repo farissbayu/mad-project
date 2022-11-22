@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="capt1">GET things done with TODo</string>
+    <string name="capt2">Lorem Ipsum  </string>
+    <string name="capt3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the ,</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
